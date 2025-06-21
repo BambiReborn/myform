@@ -60,6 +60,14 @@ h1{
 
 /*textarea*/
 
+.message{
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 0 0;
+    font-weight: bold;
+    font-size: 30px;
+}
+
 .feedback{
     display: block;
     margin: 0 auto;
